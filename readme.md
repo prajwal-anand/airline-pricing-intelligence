@@ -114,6 +114,7 @@ python -m src.run_pipeline
 ## 👤 Author
 
 **Prajwal Anand**
+
 Data Analytics | Pricing Intelligence | Machine Learning
 
 ---
