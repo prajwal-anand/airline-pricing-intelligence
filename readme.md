@@ -51,11 +51,9 @@ Stops influence pricing more than total flight duration.
 
 ### 2️⃣ Brand Pricing Strategy Exists
 
-Premium carriers (Jet Airways Business, Vistara Premium) consistently price above route averages.
-
-Low-cost carriers (GoAir, SpiceJet) price below route averages.
-
-This confirms brand-driven pricing power independent of route structure.
+- Premium carriers (Jet Airways Business, Vistara Premium) consistently price above route averages.
+- Low-cost carriers (GoAir, SpiceJet) price below route averages.
+- This confirms brand-driven pricing power independent of route structure.
 
 ---
 
@@ -134,7 +132,7 @@ airline-pricing-intelligence/
 
 ## 🔍 Pipeline Flow
 
-!(docs/pipeline-flow.png)
+![Pipeline Flow](docs/pipeline-flow.png)
 
 Run the entire pipeline:
 
@@ -157,7 +155,6 @@ python -m src.run_pipeline
 
 ## 📚 Dataset
 
-=======
 - Size: ~518 KB  
 - Records: 10,682 flights  
 - Source: Structured airline pricing dataset  
@@ -197,7 +194,6 @@ This is analytics engineering + business intelligence applied to pricing strateg
 
 ## 👤 Author
 
-=======
 **Prajwal Anand**  
 Data Analytics | Pricing Intelligence | Machine Learning  
 
